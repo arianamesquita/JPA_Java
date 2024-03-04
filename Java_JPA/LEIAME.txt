@@ -1,0 +1,13 @@
+O projeto foi feito conforme os slides, tentei primeiro através de uma aplicação Spring.
+
+Aí decidi recomeçar utilizando uma aplicação Java com Maven, Hibernate e Persistence.
+
+No fim acho que deveria ter utilizado somente ou Hibernate ou Persistence. 
+
+Sei que ambos rodam separadamente.
+
+mvn compile
+mvn package -DskipTests
+mvn install -DskipTests
+acessar a pasta target
+java -jar Java_JPA-jar-with-dependencies.jar 

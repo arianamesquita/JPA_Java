@@ -1,0 +1,7 @@
+main\dao\Autor.class
+main\dao\Editora.class
+main\controller\AutorJPAController.class
+main\App.class
+main\dao\Livro.class
+main\controller\EditoraJPAController.class
+main\controller\LivroJPAController.class
